@@ -1,0 +1,19 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.checkout-btn {
+  font-size: 3rem;
+  background-color: royalblue;
+  padding: 1rem;
+  border: 0px;
+  border-radius: 0.25rem;
+  color: rgb(32, 32, 32);
+  cursor: pointer;
+}
+
+.checkout-btn:hover {
+  background-color: rgb(56, 91, 197);
+}
